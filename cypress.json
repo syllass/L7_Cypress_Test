@@ -1,0 +1,8 @@
+{
+    "chromeWebSecurity": false,
+    "env": {
+      "iFrameURL": "http://the-internet.herokuapp.com/iframe",
+      "dragAndDropURL": "http://the-internet.herokuapp.com/drag_and_drop",
+      "infiniteScrollURL": "http://the-internet.herokuapp.com/infinite_scroll"
+    }
+  }
